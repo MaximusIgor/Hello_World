@@ -13,7 +13,7 @@ package ShylovIhorSummer2017;
 
         //Расшифруйте оба текста, найдите ключи шифрования и пришлите ответы на mystat вместе с вашими программами
 
-       // Ответы:
+        //Ответы:
 
         //первый текст: https://ru.wikipedia.org/wiki/Java
         //второй текст: https://ru.wikipedia.org/wiki/James_Gosling
